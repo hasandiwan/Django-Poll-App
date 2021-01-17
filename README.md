@@ -25,7 +25,7 @@ Django poll app is a full featured polling app. You have to register in this app
 <code>pip install faker</code>
 <code>python manage.py shell</code>
 <code>import seeder</code>
-<code>seeder.seed_all(30)</code>
+<code>seeder.seed\_all(30)</code>
 <p>Here 30 is a number of entry. You can use it as your own</p>
 
 <h2> To run the program in local server use the following command </h2>
